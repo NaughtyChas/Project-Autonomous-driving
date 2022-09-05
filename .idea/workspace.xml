@@ -18,13 +18,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Githubpath/Project-Autonomous-driving/NNTraining/training_tracks/2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Githubpath/Project-Autonomous-driving/NNTraining/training_tracks/2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Githubpath\Project-Autonomous-driving\NNTraining\training_tracks\2" />
@@ -34,9 +34,10 @@
       <recent name="E:\Githubpath\Project-Autonomous-driving\NNTraining\testing_tracks\1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Githubpath\Project-Autonomous-driving\Deeplearning" />
-      <recent name="E:\Githubpath\Project-Autonomous-driving\ImageProcess" />
       <recent name="E:\Githubpath\Project-Autonomous-driving" />
+      <recent name="E:\Githubpath\Project-Autonomous-driving\Deeplearning" />
+      <recent name="E:\Githubpath\Project-Autonomous-driving\Tests" />
+      <recent name="E:\Githubpath\Project-Autonomous-driving\ImageProcess" />
       <recent name="E:\Githubpath\Project-Autonomous-driving\Movement" />
     </key>
   </component>
@@ -73,16 +74,5 @@
       <updated>1661617254796</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
